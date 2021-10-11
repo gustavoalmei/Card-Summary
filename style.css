@@ -30,7 +30,7 @@ a {
   height: 650px;
   margin: auto;
   background-color: #fff;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+s
 }
 
 header {
@@ -116,6 +116,7 @@ header {
   font-family: "Red Hat Display", sans-serif;
   font-weight: 700;
   background-color: rgba(56, 41, 224, 1);
+  box-shadow: 10px 20px 20px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
   color: white;
   width: 90%;
