@@ -27,16 +27,15 @@ Users should be able to:
 
 - Version Desktop
 
-<img src="./design/Desktop.png" width="600px" align="left" />
+<img src="./design/Desktop.png" width="600px"/>
 
 - Version Mobile
 
-<img src="./design/Mobile.png" width="350px" align="left" />
+<img src="./design/Mobile.png" width="350px"/>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live](https://card-summary.vercel.app/)
 
 ## My process
 
