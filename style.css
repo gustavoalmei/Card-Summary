@@ -4,11 +4,6 @@
   box-sizing: content-box;
 }
 
-@font-face {
-  font-family: ;
-  src: url();
-}
-
 main {
   background-image: url(./assets/pattern-background-desktop.svg);
   background-color: hsl(225, 100%, 94%);
@@ -30,7 +25,6 @@ a {
   height: 650px;
   margin: auto;
   background-color: #fff;
-s
 }
 
 header {
