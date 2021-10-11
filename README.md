@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live](https://vercel.com/card-summary)
+- Live Site URL: [Live](https://card-summary.vercel.app/)
 
 ## My process
 
