@@ -27,11 +27,11 @@ Users should be able to:
 
 - Version Desktop
 
-<img src="C:\Users\Gustavo Almeida\OneDrive\Documentos\Projetos\Card Summary\design\Desktop.png" width="600px" align="left" />
+<img src="./design/Desktop.png" width="600px" align="left" />
 
 - Version Mobile
 
-<img src="C:\Users\Gustavo Almeida\OneDrive\Documentos\Projetos\Card Summary\design\Mobile.png" width="350px" align="left" />
+<img src="./design/Mobile.png" width="350px" align="left" />
 
 ### Links
 
